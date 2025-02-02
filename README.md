@@ -22,13 +22,13 @@ This project applies the TOPSIS (Technique for Order Preference by Similarity to
 
  ### Step 1: Clone the Repository
 
- bash ''
+ bash ``
  git clone https://github.com/krbok/TOPSIS-Based-Model-Selection-for-Text-Generation
- cd topsis-text-generation ''
+ cd topsis-text-generation ``
 
 ### Step 2: Install Dependencies
 
- bash '' pip install numpy pandas matplotlib seaborn ''
+ bash `` pip install numpy pandas matplotlib seaborn ``
 
 📊 Visualizations
 
